@@ -1,0 +1,20 @@
+# Organizer-Files-for-Windows
+Organizer Filers for Windows
+
+
+ESPAÑOL
+
+
+instalation
+
+1ro. debes modificar el archivo bat. y cambiar la ruta a la de tu sistema, igualmente con el archivo .vbs
+
+2do. luego crear un acceso directo del archivo .vbs y ese acceso directo cortarlo y pegarlo en la carpeta de inicio de windows para que ese archivo se ejecute automatico con el sistema.
+
+esa carjeta esta: presiona la tecla del logotipo de Windows  + R, escribe shell:startup y luego selecciona Aceptar. Esto hará que se abra la carpeta Inicio.
+
+despues puedes ocultar los archivos y listo.
+
+
+
+para usarlso en otras carpetas como en el escritorio es lo mismo solo baria la direccion de los archivos bat. y vbs.
